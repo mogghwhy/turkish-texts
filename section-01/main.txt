@@ -3,6 +3,7 @@ ben ekmek yerim
 ben içerim
 ben içerim ve sen içersin
 ben süt içerim
+bilmiyorum
 bir adam
 bir elma ye!
 bir sandviç
@@ -21,12 +22,14 @@ iyi akşamlar
 iyi geceler
 iyi geceler, görüşürüz
 iyi geceler, iyi şanslar
+iyiyim
 iyiyim, teşekkürler
 kadın su içer
 merhaba, ben Mark
 nasılsın?
 onlar su içer
 pasta
+rica ederim
 sandvic ve su
 sen ekmek yersin
 sen su içersin
