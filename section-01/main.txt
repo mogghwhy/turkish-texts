@@ -19,11 +19,9 @@ elma
 evet
 evet veya hayır
 güle güle, görüşürüz
-günaydın
 hayır
 hayır, ingilizce bilmiyorum
 hoşça kal
-iyi akşamlar
 iyi geceler
 iyi geceler, görüşürüz
 iyi geceler, iyi şanslar
@@ -56,8 +54,6 @@ siz içersiniz
 siz yersiniz
 su iç!
 tamam, iyi geceler
-teşekkür ederim
-teşekkürler
 teşekkürler, hoşça kal
 teşekkürler, nasılsın?
 ye veya iç
