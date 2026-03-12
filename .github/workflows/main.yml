@@ -28,7 +28,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
 
 
       - name: Process each section
