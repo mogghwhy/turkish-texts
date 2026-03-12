@@ -19,20 +19,37 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+permissions:
+  contents: write  # For git commit/push
+
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  merge:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Process each section
         run: |
-          pwd
-          ls -rtal .
+          for dir in section-*; do
+            if [ -d "$dir" ]; then
+              echo "Processing $dir..."
+              # Concat all .txt files (except main.txt), sort, unique, save to main.txt
+              find "$dir" -name "*.txt" ! -name "main.txt" -exec cat {} + | sort | uniq > "$dir/main.txt"
+              echo "Updated $dir/main.txt"
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add section-*/main.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Merge and dedupe section files [skip ci]"
+            git push
+          fi
