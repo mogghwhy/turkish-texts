@@ -1,12 +1,17 @@
 adam su içer
+ben
 ben ekmek yerim
 ben içerim
 ben içerim ve sen içersin
 ben süt içerim
+ben yerim
 bilmiyorum
 bir adam
 bir elma ye!
 bir sandviç
+biz
+biz içeriz
+biz yeriz
 biz yeriz ve içeriz
 ekmek
 ekmek ve su
@@ -24,15 +29,31 @@ iyi geceler, görüşürüz
 iyi geceler, iyi şanslar
 iyiyim
 iyiyim, teşekkürler
+içer
+içerim
+içeriz
+içersin
 kadın su içer
 merhaba, ben Mark
 nasılsın?
+o
+o içer
+o yer
+onlar
+onlar içer
 onlar su içer
+onlar yerler
 pasta
 rica ederim
 sandvic ve su
+sen
 sen ekmek yersin
+sen içersin
 sen su içersin
+sen yerim
+siz
+siz içersiniz
+siz yersiniz
 su iç!
 tamam, iyi geceler
 teşekkür ederim
@@ -40,5 +61,9 @@ teşekkürler
 teşekkürler, hoşça kal
 teşekkürler, nasılsın?
 ye veya iç
+yer
+yerim
+yeriz
+yersin
 çocuk elma yer
 çocuk ve kadın
