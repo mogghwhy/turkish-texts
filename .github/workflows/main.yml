@@ -14,7 +14,7 @@ on:
     branches: [ "main" ]
     paths-ignore:
       - 'README.md'
-      - 'section-01/main.txt
+      - 'section-01/main.txt'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
