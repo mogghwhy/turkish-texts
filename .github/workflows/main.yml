@@ -29,7 +29,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: Process each section
         run: |
@@ -51,5 +51,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Merge and dedupe section files [skip ci]"
-            git push
+            git push origin main
           fi
