@@ -1,6 +1,7 @@
 adam
 adam su içer
 akşamlar
+balık
 ben
 ben ekmek yerim
 ben içerim
@@ -14,6 +15,7 @@ bir elma ye!
 bir sandviç
 biz
 biz içeriz
+biz peynir ve makarna yerler
 biz yeriz
 biz yeriz ve içeriz
 ekmek
@@ -45,9 +47,11 @@ içersin
 kadın
 kadın su içer
 kız
+makarna
 memnun oldum
 merhaba
 merhaba, ben Mark
+meyve
 nasılsın?
 nasılsınız?
 o
@@ -58,6 +62,7 @@ onlar içer
 onlar su içer
 onlar yerler
 pasta
+portakal
 rica ederim
 sandvic ve su
 sandviç
@@ -72,6 +77,8 @@ siz yersiniz
 su
 su iç!
 süt
+sıcak bir ekmek
+sıcak bir yumurta
 tamam
 tamam, iyi geceler
 teşekkür ederim
@@ -85,6 +92,7 @@ yer
 yerim
 yeriz
 yersin
+yumurta
 çocuk
 çocuk elma yer
 çocuk ve kadın
