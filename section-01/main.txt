@@ -18,22 +18,39 @@ biz içeriz
 biz peynir ve makarna yerler
 biz yeriz
 biz yeriz ve içeriz
+bu
+bu çok zor
+bunlar çok büyük
+büyük
 ekmek
 ekmek ve su
 elma
 evet
 evet veya hayır
+evet, iyiyim
+evet, teşekkürler
 gece
+genç
+genç bir adam
+genç bir kız
 görüşürüz
+görüşürüz, rica ederim
 güle güle, görüşürüz
 günaydın
+günaydın, nasılsın?
+günaydın, nasılsınız?
 hayır
 hayır, ingilizce bilmiyorum
+hayır, teşekkürler
 hoş geldın
+hoş geldın, nasılsın?
 hoş geldıniz
+hoş gendınız, nasılsınız?
 hoşça kal
+hoşça kal, iyi şanslar
 hoşça kalın
 iyi akşamlar
+iyi akşamlar, Mark
 iyi geceler
 iyi geceler, görüşürüz
 iyi geceler, iyi şanslar
@@ -49,8 +66,12 @@ kadın su içer
 kız
 makarna
 memnun oldum
+memnun oldum, hoşça kalın
 merhaba
 merhaba, ben Mark
+merhaba, hoş geldınız
+merhaba, iyi akşamlar
+merhaba, nasılsın?
 meyve
 nasılsın?
 nasılsınız?
@@ -66,6 +87,7 @@ portakal
 rica ederim
 sandvic ve su
 sandviç
+selam, hoş geldın
 sen
 sen ekmek yersin
 sen içersin
@@ -80,11 +102,14 @@ süt
 sıcak bir ekmek
 sıcak bir yumurta
 tamam
+tamam, görüşürüz
 tamam, iyi geceler
 teşekkür ederim
 teşekkürler
+teşekkürler, görüşürüz
 teşekkürler, hoşça kal
 teşekkürler, nasılsın?
+teşekkürler, nasılsınız?
 ve
 veya
 ye veya iç
@@ -96,3 +121,6 @@ yumurta
 çocuk
 çocuk elma yer
 çocuk ve kadın
+çok
+çok eski
+şunlar çok büyük
