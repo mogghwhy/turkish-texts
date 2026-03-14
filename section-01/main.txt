@@ -21,6 +21,7 @@ biz yeriz ve içeriz
 bu
 bu çok zor
 bunlar çok büyük
+bunlar çok güzel
 büyük
 ekmek
 ekmek ve su
@@ -32,6 +33,7 @@ evet, teşekkürler
 gece
 genç
 genç bir adam
+genç bir kadın
 genç bir kız
 görüşürüz
 görüşürüz, rica ederim
@@ -39,6 +41,8 @@ güle güle, görüşürüz
 günaydın
 günaydın, nasılsın?
 günaydın, nasılsınız?
+güzel bir kadın
+güzel bir kız
 hayır
 hayır, ingilizce bilmiyorum
 hayır, teşekkürler
@@ -63,6 +67,8 @@ içeriz
 içersin
 kadın
 kadın su içer
+kolay
+küçük
 kız
 makarna
 memnun oldum
@@ -96,11 +102,13 @@ sen yerim
 siz
 siz içersiniz
 siz yersiniz
+soğuk
 su
 su iç!
 süt
 sıcak bir ekmek
 sıcak bir yumurta
+sıcak süt
 tamam
 tamam, görüşürüz
 tamam, iyi geceler
@@ -112,6 +120,7 @@ teşekkürler, nasılsın?
 teşekkürler, nasılsınız?
 ve
 veya
+yaşlı bir kadın
 ye veya iç
 yer
 yerim
@@ -122,5 +131,15 @@ yumurta
 çocuk elma yer
 çocuk ve kadın
 çok
+çok büyük
 çok eski
+çok kolay
+çok soğuk
+çok sıcak ekmek
+şu
+şu küçük bir elma
+şu küçük bir çocuk
+şu çok küçük
+şu çok zor
 şunlar çok büyük
+şunlar çok kolay
