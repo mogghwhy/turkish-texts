@@ -1,5 +1,6 @@
 adam
 adam su içer
+adamın kitapları
 akşamlar
 balık
 ben
@@ -8,6 +9,8 @@ ben içerim
 ben içerim ve sen içersin
 ben süt içerim
 ben yerim
+benim bir kedim yoktur
+benim gazetem
 bilmiyorum
 bir
 bir adam
@@ -88,6 +91,7 @@ onlar
 onlar içer
 onlar su içer
 onlar yerler
+onlrın kitaplrın var
 pasta
 portakal
 rica ederim
