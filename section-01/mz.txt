@@ -34,3 +34,4 @@ hoş geldın
 nasılsınız?
 hoş geldıniz
 affedersiniz
+affedersin
