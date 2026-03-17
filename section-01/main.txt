@@ -1,3 +1,4 @@
+Barış'ın bir köpeği var
 adam
 adam su içer
 adamın kitapları
@@ -11,7 +12,11 @@ ben içerim
 ben içerim ve sen içersin
 ben süt içerim
 ben yerim
+benim adım Bond
+benim adım Emel. Senin?
+benim ayım yokur
 benim bir kedim yoktur
+benim bir köpeğim var
 benim gazetem
 bilmiyorum
 bir
@@ -23,6 +28,7 @@ biz içeriz
 biz peynir ve makarna yerler
 biz yeriz
 biz yeriz ve içeriz
+bizim ekmeğimiz var
 bu
 bu çok zor
 bunlar çok büyük
@@ -72,9 +78,13 @@ içeriz
 içersin
 kadın
 kadın su içer
+kaplumbağam
+kedinin suyu var
 kolay
 küçük
 kız
+kızın bir portakalı yok
+kızın kedisi
 makarna
 memnun oldum
 memnun oldum, hoşça kalın
@@ -94,6 +104,7 @@ onlar içer
 onlar su içer
 onlar yerler
 onlrın kitaplrın var
+onun tuzu var
 pasta
 portakal
 rica ederim
@@ -105,9 +116,12 @@ sen ekmek yersin
 sen içersin
 sen su içersin
 sen yerim
+senin bir faren var
+senin şekerin yok
 siz
 siz içersiniz
 siz yersiniz
+sizin kitaplarınız
 soğuk
 su
 su iç!
@@ -142,6 +156,7 @@ yumurta
 çok kolay
 çok soğuk
 çok sıcak ekmek
+ördekler benim ördeklerim
 şu
 şu küçük bir elma
 şu küçük bir çocuk
