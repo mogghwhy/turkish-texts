@@ -1,4 +1,6 @@
+
 Barış'ın bir köpeği var
+Duo ve kedim çok mutlular
 Selcen'in kuşu
 adam
 adam su içer
@@ -8,9 +10,12 @@ affedersiniz
 akşamlar
 balık
 ben
+ben bir limon yerim
 ben ekmek yerim
+ben ekmer yerim
 ben içerim
 ben içerim ve sen içersin
+ben peynir ve meyve yerim
 ben senin sandviçlerini yerim
 ben süt içerim
 ben yerim
@@ -25,16 +30,21 @@ bilmiyorum
 bir
 bir adam
 bir elma ye!
+bir makarna ve pasta yeriz
 bir sandviç
 biz
 biz içeriz
 biz peynir ve makarna yerler
+biz peynir yeriz ve onlar balık yerler
 biz yeriz
 biz yeriz ve içeriz
+biz yumurta yeriz
+bizim atımız su içer
 bizim bir köpeğimiz var
 bizim ekmeğimiz var
 bizim sütümüz yok
 bu
+bu peynir
 bu çok zor
 bunlar çok büyük
 bunlar çok güzel
@@ -82,6 +92,7 @@ içerim
 içeriz
 içersin
 kadın
+kadın balık yer
 kadın su içer
 kadınların köpekleri
 kadının kızları var
@@ -90,9 +101,11 @@ kedinin suyu var
 kolay
 küçük
 kız
+kız çilek yer
 kızlrın gazeteleri
 kızın bir portakalı yok
 kızın kedisi
+limon
 makarna
 memnun oldum
 memnun oldum, hoşça kalın
@@ -102,20 +115,26 @@ merhaba, hoş geldınız
 merhaba, iyi akşamlar
 merhaba, nasılsın?
 meyve
+meyve ve makarna
 nasılsın?
 nasılsınız?
 o
 o içer
+o kadın balık yer
 o yer
 onlar
+onlar bir pasta yerler
 onlar içer
+onlar portakal yerler
 onlar su içer
 onlar yerler
+onlar yumurta yerler
 onların kitapları
 onlrın kitaplrın var
 onun pastası yok
 onun tuzu var
 pasta
+peynir ve meyve yerim
 portakal
 rica ederim
 sandvic ve su
@@ -124,15 +143,18 @@ selam, hoş geldın
 sen
 sen ekmek yersin
 sen içersin
+sen portakal yersin
 sen su içersin
 sen ve kedin sakinsiniz
 sen yerim
+sen çorba ve bira içersin
 senin bir faren var
 senin şekerin yok
 siz
 siz içersiniz
 siz yersiniz
 sizin kitaplarınız
+sizin çileğiniz
 soğuk
 su
 su iç!
@@ -140,6 +162,7 @@ süt
 sıcak bir ekmek
 sıcak bir yumurta
 sıcak süt
+sıçak bir yumurta
 tamam
 tamam, görüşürüz
 tamam, iyi geceler
@@ -151,6 +174,7 @@ teşekkürler, nasılsın?
 teşekkürler, nasılsınız?
 ve
 veya
+yağ
 yaşlı bir kadın
 ye veya iç
 yer
@@ -158,6 +182,7 @@ yerim
 yeriz
 yersin
 yumurta
+çilek
 çocuk
 çocuk elma yer
 çocuk ve kadın
@@ -167,6 +192,7 @@ yumurta
 çok kolay
 çok soğuk
 çok sıcak ekmek
+çorba
 ördekler benim ördeklerim
 şu
 şu küçük bir elma
